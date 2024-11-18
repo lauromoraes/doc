@@ -1,2 +1,2 @@
-# doc
-Promoter identification project.
+# Promoter Identification
+Promoter identification project using Deep learning, including the CapsNet models.
